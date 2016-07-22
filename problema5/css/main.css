@@ -1,0 +1,36 @@
+/* Pon tu código css aqui */
+*	{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+div	{
+	position: absolute;
+	width: 200px;
+	height: 200px;
+}
+
+.magenta	{
+	background-color: #ED2251;
+	left: 0px;
+	top: 0px;
+}
+
+.cyan	{
+	background-color: #3A81BA;
+	right: 0px;
+	top: 0px;	
+}
+
+.olivo	{
+	background-color: #8BAB42;
+	left: 0px;
+	bottom: 0px;
+}
+
+.amarillo	{
+	background-color: yellow;
+	right: 0px;
+	bottom: 0px;
+}

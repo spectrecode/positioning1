@@ -1,0 +1,25 @@
+/* Pon tu código css aqui */
+*	{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+div	{
+	position: relative;
+	width: 200px;
+	height: 200px;
+}
+
+.magenta	{
+	background-color: #ED2251;
+}
+
+.cyan	{
+	background-color: #3A81BA;
+	left: 200px;
+}
+
+.olivo	{
+	background-color: #8BAB42;
+}
